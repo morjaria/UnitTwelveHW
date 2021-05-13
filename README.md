@@ -47,8 +47,8 @@ In this assignment, have applied apply natural language processing to understand
 
 ### 3 - Named Entity Recognition
 
-* [Bitcoin Named Entity Recognition](Images/btc_NER.html)
-* [Ethereum Named Entity Recognition](Images/eth_NER.html)
+* [Bitcoin Named Entity Recognition](https://morjaria.github.io/UnitTwelveHW/Images/btc_NER.html)
+* [Ethereum Named Entity Recognition](https://morjaria.github.io/UnitTwelveHW/Images/eth_NER.html)
 
 
 
